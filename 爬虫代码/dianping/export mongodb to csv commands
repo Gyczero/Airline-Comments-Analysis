@@ -1,0 +1,4 @@
+Command: 
+
+
+mongoexport --host=127.0.0.1:27017  --db=Dianping --collection=comment --type csv --fieldFile fields.txt -o dianping.csv
