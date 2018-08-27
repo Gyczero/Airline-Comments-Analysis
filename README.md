@@ -47,13 +47,16 @@
 
 2、航空公司博文Top30关键词（以东航为例）：
 
-![东航积极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe1.png)
-![东航消极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe2.png)
+积极情感：![东航积极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe1.png)
+
+消极情感：![东航消极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe2.png)
 
 3、航空公司博文Top30关键词间联系（以春秋航空为例）：
 
-![春秋航空词云](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe3.png)
-![春秋航空关键词层次性聚类后结果](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe4.png)
+词云：![春秋航空词云](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe3.png)
+
+层次性聚类后结果：![春秋航空关键词层次性聚类后结果](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe4.png)
 
 4、航空公司【服务】单词对应相关性最高的单词（以春秋航空为例）：
-![春秋航空博文中同【服务]最相关单词(https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe5.png)
+
+春秋航空博文中同"服务"最相关单词:![春秋航空博文中同"服务"最相关单词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe5.png)
