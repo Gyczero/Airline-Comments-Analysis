@@ -9,9 +9,10 @@
 爬虫爬取网址（以东航为例）：[东航](https://m.weibo.cn/container/getIndex?type=all&queryVal=%E4%B8%9C%E8%88%AA&luicode=10000011&lfid=106003type%3D1&title=%E4%B8%9C%E8%88%AA&containerid=100103type%3D1%26q%3D%E4%B8%9C%E8%88%AA&page=2)
 
 爬虫模块包括：
-| 目的      |   具体操作 |
-| :-------- |  :--: |
-|  确定数据源 |   分析微博数据爬取可行性，确定爬取url  |
+
+目的      |   具体操作
+:-------- |  :--:
+|  确定数据源 |  分析微博数据爬取可行性，确定爬取url  |
 |  确定返回数据格式   |    根据返回的Json，确定收集的字段  |
 | 定义存储的数据格式     |   编写Item类  |
 | 解析返回数据 |  写解析函数，根据返回Json解析所需字段
@@ -20,6 +21,7 @@
 
 # 文本挖掘
 对爬取的文本数据进行处理，包括：
+
 | 目的      |    处理流程 | 具体操作 |
 | :-------- | --------:| :--:|
 | 数据清洗  |  设置删除词 | 设置如“校园”、“就业”等删除词，去除无关博文|
@@ -36,22 +38,22 @@
 
 
 
-# 结论
+# 结论
 从微博数据得到：
 
 1、航空公司公众情感倾向（以东航为例）：
 
-![东航]()
+![东航](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe0.png)
 
 2、航空公司博文Top30关键词（以东航为例）：
 
-![东航积极情感微博关键词]()
-![东航消极情感微博关键词]()
+![东航积极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe1.png)
+![东航消极情感微博关键词](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe2.png)
 
 3、航空公司博文Top30关键词间联系（以春秋航空为例）：
 
-![春秋航空词云]()
-![春秋航空关键词层次性聚类后结果]()
+![春秋航空词云](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe3.png)
+![春秋航空关键词层次性聚类后结果](https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe4.png)
 
 4、航空公司【服务】单词对应相关性最高的单词（以春秋航空为例）：
-![春秋航空博文中同【服务]最相关单词()
+![春秋航空博文中同【服务]最相关单词(https://github.com/Gyczero/Airline-Comments-Analysis/blob/master/ReadMe5.png)
